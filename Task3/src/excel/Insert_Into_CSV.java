@@ -12,7 +12,7 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 public class Insert_Into_CSV {
 	String insertcsv(String read_filename) throws IOException {
 		
-		ArrayList<ArrayList<String>> datas = new Read_Excel_Data().read_data(read_filename); //"A:\\Github\\BlueScope_Training\\Task3\\Datas.xlsx"
+		ArrayList<ArrayList<String>> datas = new Read_Excel_Data().read_data(read_filename);
 		String write_filename = read_filename.split(".xlsx|.xls")[0]+".csv";
 		XSSFWorkbook wb = new XSSFWorkbook();
 		XSSFSheet sh = wb.createSheet("student data");

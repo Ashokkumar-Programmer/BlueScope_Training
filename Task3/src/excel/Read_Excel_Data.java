@@ -29,7 +29,7 @@ public class Read_Excel_Data{
 			while (cellIterator.hasNext())   
 			{  
 				Cell cell = cellIterator.next();  
-				switch (cell.getCellType())               
+				switch (cell.getCellType())
 				{  
 					case Cell.CELL_TYPE_BLANK:
 						insert.add("No Value");
