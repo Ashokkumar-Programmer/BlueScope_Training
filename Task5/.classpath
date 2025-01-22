@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-21">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="A:/Github/BlueScope_Training/Task5/lib/tomcat-catalina-11.0.2 .jar"/>
+	<classpathentry kind="lib" path="A:/Github/BlueScope_Training/Task5/lib/tomcat-util-11.0.2.jar"/>
+	<classpathentry kind="lib" path="A:/Github/BlueScope_Training/Task5/lib/gson-2.11.0.jar"/>
+	<classpathentry kind="lib" path="A:/Github/BlueScope_Training/Task5/lib/javax.servlet-api-4.0.1.jar"/>
+	<classpathentry kind="lib" path="A:/Github/BlueScope_Training/Task5/lib/tomcat-embed-core-11.0.2.jar"/>
+	<classpathentry kind="lib" path="A:/Github/BlueScope_Training/Task5/lib/httpcore-4.2.1.jar"/>
+	<classpathentry kind="lib" path="A:/Github/BlueScope_Training/Task5/lib/httpcore-nio-4.4.16.jar"/>
+	<classpathentry kind="lib" path="A:/Github/BlueScope_Training/Task5/lib/httpcore5-5.3.2.jar"/>
+	<classpathentry kind="lib" path="A:/Github/BlueScope_Training/Task5/lib/mysql-connector-j-9.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
