@@ -10,3 +10,5 @@ Task 3: (20/01/2025) - Excel data can be read, write to CSV and stored in a data
 Task 4: (21/01/2025) - Getting car details using Collections in Java
 
 Task 5: (22/01/2025) - Creating a RestAPI to handle get and post methods without using servlets and springboot.
+
+Task 6: (23/01/2025) - Using Java to read a JSON file to get a particular value or all values.
