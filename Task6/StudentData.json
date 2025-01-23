@@ -1,0 +1,204 @@
+{
+  "students": {
+    "1": {
+      "name": "John Doe",
+      "age": 20,
+      "department": "Computer Science",
+      "details": {
+        "gender": "Male",
+        "hobbies": ["Reading", "Coding", "Cycling"],
+        "grades": {
+          "math": 85,
+          "science": 90,
+          "english": 88
+        },
+        "address": {
+          "street": "123 Elm Street",
+          "city": "New York",
+          "state": "NY",
+          "zip": "10001"
+        }
+      }
+    },
+    "2": {
+      "name": "Jane Smith",
+      "age": 21,
+      "department": "Electrical Engineering",
+      "details": {
+        "gender": "Female",
+        "hobbies": ["Painting", "Singing", "Dancing"],
+        "grades": {
+          "math": 89,
+          "science": 85,
+          "english": 92
+        },
+        "address": {
+          "street": "456 Oak Avenue",
+          "city": "Los Angeles",
+          "state": "CA",
+          "zip": "90001"
+        }
+      }
+    },
+    "3": {
+      "name": "Sam Wilson",
+      "age": 22,
+      "department": "Mechanical Engineering",
+      "details": {
+        "gender": "Male",
+        "hobbies": ["Robotics", "Gaming", "Traveling"],
+        "grades": {
+          "math": 90,
+          "science": 87,
+          "english": 85
+        },
+        "address": {
+          "street": "789 Pine Lane",
+          "city": "Chicago",
+          "state": "IL",
+          "zip": "60601"
+        }
+      }
+    },
+    "4": {
+      "name": "Alice Johnson",
+      "age": 23,
+      "department": "Civil Engineering",
+      "details": {
+        "gender": "Female",
+        "hobbies": ["Sketching", "Photography"],
+        "grades": {
+          "math": 82,
+          "science": 88,
+          "english": 90
+        },
+        "address": {
+          "street": "321 Birch Boulevard",
+          "city": "Houston",
+          "state": "TX",
+          "zip": "77001"
+        }
+      }
+    },
+    "5": {
+      "name": "Michael Brown",
+      "age": 24,
+      "department": "Chemical Engineering",
+      "details": {
+        "gender": "Male",
+        "hobbies": ["Swimming", "Chess", "Cooking"],
+        "grades": {
+          "math": 88,
+          "science": 89,
+          "english": 87
+        },
+        "address": {
+          "street": "654 Maple Drive",
+          "city": "Phoenix",
+          "state": "AZ",
+          "zip": "85001"
+        }
+      }
+    },
+    "6": {
+      "name": "Emma Davis",
+      "age": 25,
+      "department": "Information Technology",
+      "details": {
+        "gender": "Female",
+        "hobbies": ["Writing", "Traveling", "Yoga"],
+        "grades": {
+          "math": 91,
+          "science": 92,
+          "english": 94
+        },
+        "address": {
+          "street": "987 Walnut Street",
+          "city": "San Diego",
+          "state": "CA",
+          "zip": "92101"
+        }
+      }
+    },
+    "7": {
+      "name": "Chris Evans",
+      "age": 22,
+      "department": "Aerospace Engineering",
+      "details": {
+        "gender": "Male",
+        "hobbies": ["Flying Drones", "Trekking", "Space Exploration"],
+        "grades": {
+          "math": 89,
+          "science": 93,
+          "english": 91
+        },
+        "address": {
+          "street": "159 Willow Way",
+          "city": "Dallas",
+          "state": "TX",
+          "zip": "75201"
+        }
+      }
+    },
+    "8": {
+      "name": "Sophia White",
+      "age": 21,
+      "department": "Biotechnology",
+      "details": {
+        "gender": "Female",
+        "hobbies": ["Research", "Gardening", "Hiking"],
+        "grades": {
+          "math": 87,
+          "science": 95,
+          "english": 89
+        },
+        "address": {
+          "street": "753 Chestnut Lane",
+          "city": "San Francisco",
+          "state": "CA",
+          "zip": "94101"
+        }
+      }
+    },
+    "9": {
+      "name": "Liam Johnson",
+      "age": 23,
+      "department": "Physics",
+      "details": {
+        "gender": "Male",
+        "hobbies": ["Astronomy", "Chess", "Photography"],
+        "grades": {
+          "math": 92,
+          "science": 96,
+          "english": 90
+        },
+        "address": {
+          "street": "246 Cedar Court",
+          "city": "Seattle",
+          "state": "WA",
+          "zip": "98101"
+        }
+      }
+    },
+    "10": {
+      "name": "Olivia Miller",
+      "age": 24,
+      "department": "Architecture",
+      "details": {
+        "gender": "Female",
+        "hobbies": ["Drawing", "Designing", "Music"],
+        "grades": {
+          "math": 84,
+          "science": 89,
+          "english": 92
+        },
+        "address": {
+          "street": "369 Aspen Road",
+          "city": "Denver",
+          "state": "CO",
+          "zip": "80201"
+        }
+      }
+    }
+  }
+}
