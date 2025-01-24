@@ -71,8 +71,6 @@ public class Json {
                 while (studentIds.hasNext()) {
                     String studentId = studentIds.next();
                     Format format = new Format(rootNode, key, studentId);
-//                    System.out.println("Student ID: " + studentId);
-//                    System.out.println("Student name: "+ format.name);
                     main.put(studentId, format);
                 }
             }

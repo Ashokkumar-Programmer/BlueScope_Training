@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Students Data</title>
+<link rel="stylesheet"
+	href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+	crossorigin="anonymous">
+</head>
+<body>
+	<div class="container">
+		<br>
+		<br>
+		<h3 class="text-center">Student Management</h3>
+		<hr>
+		<script>
+			function new_function() {
+				document.getElementById("new_form").submit();
+			}
+			function view_function() {
+				document.getElementById("view_form").submit();
+			}
+			function edit_function() {
+				document.getElementById("edit_form").submit();
+			}
+			function delete_function() {
+				document.getElementById("delete_form").submit();
+			}
+		</script>
+
+		<form method="post" action="web" id="new_form">
+			<input type="hidden" name="action" value="new"> 
+			<a class="btn btn-success mb-3" onclick="new_function()">Add New Student</a>
+		</form>
+		<form method="get" action="web" id="view_form">
+			<input type="hidden" name="action" value="view">
+			<a class="btn btn-secondary mb-3" onclick="view_function()">Student List</a>
+		</form>
+	</div>
+</body>
+</html>

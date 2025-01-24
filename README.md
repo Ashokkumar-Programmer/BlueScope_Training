@@ -12,3 +12,5 @@ Task 4: (21/01/2025) - Getting car details using Collections in Java
 Task 5: (22/01/2025) - Creating a RestAPI to handle get and post methods without using servlets and springboot.
 
 Task 6: (23/01/2025) - Using Java to read a JSON file to get a particular value or all values.
+
+Task 7: (24/01/2025) - CRUD Operations on MySQL using servlets with HTML
