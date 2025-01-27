@@ -8,4 +8,4 @@ alter table student drop column batch;
 
 select * from student;
 
-delete from student;
+delete from student where rollno=9489458843;
