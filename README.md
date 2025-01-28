@@ -14,3 +14,7 @@ Task 5: (22/01/2025) - Creating a RestAPI to handle get and post methods without
 Task 6: (23/01/2025) - Using Java to read a JSON file to get a particular value or all values.
 
 Task 7: (24/01/2025) - CRUD Operations on MySQL using servlets with HTML
+
+Task 8: (27/01/2025) - Using Maven to traversal the XML file data and print it one by one.
+
+Task 9: (27/01/2025) - Using Maven to Mapping JSON data to XML using FreeMarker Template Language (FTL)
