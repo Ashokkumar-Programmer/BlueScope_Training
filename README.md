@@ -18,3 +18,5 @@ Task 7: (24/01/2025) - CRUD Operations on MySQL using servlets with HTML
 Task 8: (27/01/2025) - Using Maven to traversal the XML file data and print it one by one.
 
 Task 9: (27/01/2025) - Using Maven to Mapping JSON data to XML using FreeMarker Template Language (FTL)
+
+Task 10: (28/01/2025) - Using Maven to Mapping XML data to JSON using FreeMarker Template, modify the output of Task 9 and learn new concepts in FreeMarker Template Language.

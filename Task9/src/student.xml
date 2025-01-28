@@ -1,123 +1,121 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <students>
   	<student>
-	  <rollno>1</rollno>
-	  <studentname>John Doe</studentname>
 	  <dept>Computer Science</dept>
-	  <phonenumber>1234567890</phonenumber>
+	  <phonenumber>1234567890</phonenumber>    
 	</student>
  	<student>
 	  <rollno>2</rollno>
 	  <studentname>Jane Smith</studentname>
 	  <dept>Information Technology</dept>
-	  <phonenumber>9876543210</phonenumber>
+	  <phonenumber>9876543210</phonenumber>    
 	</student>
  	<student>
 	  <rollno>3</rollno>
 	  <studentname>Sam Wilson</studentname>
 	  <dept>Mechanical Engineering</dept>
-	  <phonenumber>4567891230</phonenumber>
+	  <phonenumber>4567891230</phonenumber>    
 	</student>
  	<student>
 	  <rollno>4</rollno>
 	  <studentname>Mary Johnson</studentname>
 	  <dept>Civil Engineering</dept>
-	  <phonenumber>7891234560</phonenumber>
+	  <phonenumber>7891234560</phonenumber>    
 	</student>
  	<student>
 	  <rollno>5</rollno>
 	  <studentname>Chris Brown</studentname>
 	  <dept>Electronics</dept>
-	  <phonenumber>3216549870</phonenumber>
+	  <phonenumber>3216549870</phonenumber>    
 	</student>
  	<student>
 	  <rollno>6</rollno>
 	  <studentname>Emma Watson</studentname>
 	  <dept>Electrical Engineering</dept>
-	  <phonenumber>6549873210</phonenumber>
+	  <phonenumber>6549873210</phonenumber>    
 	</student>
  	<student>
 	  <rollno>7</rollno>
 	  <studentname>Michael Scott</studentname>
 	  <dept>Business Administration</dept>
-	  <phonenumber>7894561230</phonenumber>
+	  <phonenumber>7894561230</phonenumber>    
 	</student>
  	<student>
 	  <rollno>8</rollno>
 	  <studentname>Pam Beesly</studentname>
 	  <dept>Fine Arts</dept>
-	  <phonenumber>1237894560</phonenumber>
+	  <phonenumber>1237894560</phonenumber>    
 	</student>
  	<student>
 	  <rollno>9</rollno>
 	  <studentname>Jim Halpert</studentname>
 	  <dept>Marketing</dept>
-	  <phonenumber>6541237890</phonenumber>
+	  <phonenumber>6541237890</phonenumber>    
 	</student>
  	<student>
 	  <rollno>10</rollno>
 	  <studentname>Dwight Schrute</studentname>
 	  <dept>Agriculture</dept>
-	  <phonenumber>9873216540</phonenumber>
+	  <phonenumber>9873216540</phonenumber>    
 	</student>
  	<student>
 	  <rollno>11</rollno>
 	  <studentname>Angela Martin</studentname>
 	  <dept>Accounting</dept>
-	  <phonenumber>3217896540</phonenumber>
+	  <phonenumber>3217896540</phonenumber>    
 	</student>
  	<student>
 	  <rollno>12</rollno>
 	  <studentname>Kevin Malone</studentname>
 	  <dept>Finance</dept>
-	  <phonenumber>7896541230</phonenumber>
+	  <phonenumber>7896541230</phonenumber>    
 	</student>
  	<student>
 	  <rollno>13</rollno>
 	  <studentname>Oscar Martinez</studentname>
 	  <dept>Mathematics</dept>
-	  <phonenumber>9871234560</phonenumber>
+	  <phonenumber>9871234560</phonenumber>    
 	</student>
  	<student>
 	  <rollno>14</rollno>
 	  <studentname>Stanley Hudson</studentname>
 	  <dept>History</dept>
-	  <phonenumber>6547893210</phonenumber>
+	  <phonenumber>6547893210</phonenumber>    
 	</student>
  	<student>
 	  <rollno>15</rollno>
 	  <studentname>Phyllis Vance</studentname>
 	  <dept>Biology</dept>
-	  <phonenumber>1236547890</phonenumber>
+	  <phonenumber>1236547890</phonenumber>    
 	</student>
  	<student>
 	  <rollno>16</rollno>
 	  <studentname>Ryan Howard</studentname>
 	  <dept>Psychology</dept>
-	  <phonenumber>4561237890</phonenumber>
+	  <phonenumber>4561237890</phonenumber>    
 	</student>
  	<student>
 	  <rollno>17</rollno>
 	  <studentname>Kelly Kapoor</studentname>
 	  <dept>Sociology</dept>
-	  <phonenumber>9876541230</phonenumber>
+	  <phonenumber>9876541230</phonenumber>    
 	</student>
  	<student>
 	  <rollno>18</rollno>
 	  <studentname>Toby Flenderson</studentname>
 	  <dept>Human Resources</dept>
-	  <phonenumber>7891236540</phonenumber>
+	  <phonenumber>7891236540</phonenumber>    
 	</student>
  	<student>
 	  <rollno>19</rollno>
 	  <studentname>Erin Hannon</studentname>
 	  <dept>English</dept>
-	  <phonenumber>3219876540</phonenumber>
+	  <phonenumber>3219876540</phonenumber>    
 	</student>
  	<student>
 	  <rollno>20</rollno>
 	  <studentname>Creed Bratton</studentname>
 	  <dept>Philosophy</dept>
-	  <phonenumber>1234567890</phonenumber>
+	  <phonenumber>1234567890</phonenumber>    
 	</student>
 </students>

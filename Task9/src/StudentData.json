@@ -1,8 +1,8 @@
 {
   "students": [
     {
-      "rollno": 1,
-      "studentname": "John Doe",
+      "rollno": 0,
+      "studentname": "",
       "dept": "Computer Science",
       "phonenumber": "1234567890"
     },
