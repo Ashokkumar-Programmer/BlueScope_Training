@@ -1,0 +1,11 @@
+{
+	"Remittance": {
+		"value": {
+			"sendersReferenceId": "TR-001001",
+			"channelId": "12345",
+			"masterReferenceId": "67890",
+			"status": "Alive",
+			"message": "Success"
+		}
+	}
+}
