@@ -22,3 +22,5 @@ Task 9: (27/01/2025) - Using Maven to Mapping JSON data to XML using FreeMarker 
 Task 10: (28/01/2025) - Using Maven to Mapping XML data to JSON using FreeMarker Template, modify the output of Task 9 and learn new concepts in FreeMarker Template Language.
 
 Task 11 (29/01/2025) - Transform JSON data into XML, then send it to OpenAPI to receive the XML response then convert it into response JSON using FreeMarker Template.
+
+Task 12 (30/01/2025) - Mapping HTML data to JSON file using FreeMarker Template and acquire knowledge about new concets in FreeMarker Template Language

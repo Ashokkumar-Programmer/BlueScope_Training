@@ -1,0 +1,1 @@
+<h1>${data.book.title}</h1>

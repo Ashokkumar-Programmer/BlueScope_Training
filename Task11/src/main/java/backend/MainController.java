@@ -89,6 +89,6 @@ public class MainController {
         	return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body("Too Many Requests on POST request for \"https://task11.free.beeceptor.com\"");
         }
         		
-        return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body(xmltojson(response.getBody()));
+        return ResponseEntity.status(HttpStatus.OK).body(xmltojson(response.getBody()));
 	}
 }

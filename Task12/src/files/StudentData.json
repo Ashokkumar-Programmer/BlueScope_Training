@@ -1,0 +1,124 @@
+{
+  "students": [
+		{
+		"rollno": 11,
+		"studentname": "Angela Martin",
+		"dept": "Accounting",
+		"phonenumber": 3217896540
+	},
+	{
+		"rollno": 12,
+		"studentname": "Kevin Malone",
+		"dept": "Finance",
+		"phonenumber": 7896541230
+	},
+	{
+		"rollno": 13,
+		"studentname": "Oscar Martinez",
+		"dept": "Mathematics",
+		"phonenumber": 9871234560
+	},
+	{
+		"rollno": 14,
+		"studentname": "Stanley Hudson",
+		"dept": "History",
+		"phonenumber": 6547893210
+	},
+	{
+		"rollno": 15,
+		"studentname": "Phyllis Vance",
+		"dept": "Biology",
+		"phonenumber": 1236547890
+	},
+	{
+		"rollno": 16,
+		"studentname": "Ryan Howard",
+		"dept": "Psychology",
+		"phonenumber": 4561237890
+	},
+	{
+		"rollno": 17,
+		"studentname": "Kelly Kapoor",
+		"dept": "Sociology",
+		"phonenumber": 9876541230
+	},
+	{
+		"rollno": 18,
+		"studentname": "Toby Flenderson",
+		"dept": "Human Resources",
+		"phonenumber": 7891236540
+	},
+	{
+		"rollno": 19,
+		"studentname": "Erin Hannon",
+		"dept": "English",
+		"phonenumber": 3219876540
+	},
+	{
+		"rollno": 1,
+		"studentname": "Ashok Kumar",
+		"dept": "Computer Science",
+		"phonenumber": 1234567890
+	},
+	{
+		"rollno": 2,
+		"studentname": "Jane Smith",
+		"dept": "Information Technology",
+		"phonenumber": 9876543210
+	},
+	{
+		"rollno": 3,
+		"studentname": "Sam Wilson",
+		"dept": "Mechanical Engineering",
+		"phonenumber": 4567891230
+	},
+	{
+		"rollno": 4,
+		"studentname": "Mary Johnson",
+		"dept": "Civil Engineering",
+		"phonenumber": 7891234560
+	},
+	{
+		"rollno": 5,
+		"studentname": "Chris Brown",
+		"dept": "Electronics",
+		"phonenumber": 3216549870
+	},
+	{
+		"rollno": 6,
+		"studentname": "Emma Watson",
+		"dept": "Electrical Engineering",
+		"phonenumber": 6549873210
+	},
+	{
+		"rollno": 7,
+		"studentname": "Michael Scott",
+		"dept": "Business Administration",
+		"phonenumber": 7894561230
+	},
+	{
+		"rollno": 8,
+		"studentname": "Pam Beesly",
+		"dept": "Fine Arts",
+		"phonenumber": 1237894560
+	},
+	{
+		"rollno": 9,
+		"studentname": "Jim Halpert",
+		"dept": "Marketing",
+		"phonenumber": 6541237890
+	},
+	{
+		"rollno": 20,
+		"studentname": "Creed Bratton",
+		"dept": "Philosophy",
+		"phonenumber": 1234567890
+	},
+	{
+		"rollno": 10,
+		"studentname": "Dwight Schrute",
+		"dept": "Agriculture",
+		"phonenumber": 9873216540
+	}
+  ]
+ }
