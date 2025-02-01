@@ -1,0 +1,36 @@
+{
+  "students": [
+    {
+      "Id": 1,
+      "name": "Alice Johnson",
+      "age": 20,
+      "gender": "female",
+      "subjects": ["Math", "Science"],
+      "address": {
+        "city": "New York",
+        "zip": "10001"
+      },
+      "grades": {
+        "Math": 85,
+        "Science": 90
+      },
+      "graduated": false
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "age": 21,
+      "gender": "male",
+      "subjects": ["History", "English"],
+      "address": {
+        "city": "Los Angeles",
+        "zip": "90001"
+      },
+      "grades": {
+        "History": 78,
+        "English": 82
+      },
+      "graduated": true
+    }
+  ]
+}

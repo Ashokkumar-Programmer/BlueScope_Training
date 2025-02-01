@@ -1,0 +1,27 @@
+{
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"type": "object",
+	"properties": {
+		"students":{
+			"type":"array",
+			"items":{
+				"type": "object",
+				"if":{
+					"properties":{
+						"graduated": {"const": false}
+					}
+				},
+				"then":{
+					"properties":{
+						"age": {"type": "string"}
+					}
+				},
+				"else":{
+					"properties":{
+						"age": {"type": "number"}
+					}
+				}
+			}
+		}
+	}
+}

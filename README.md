@@ -26,3 +26,5 @@ Task 11 (29/01/2025) - Transform JSON data into XML, then send it to OpenAPI to 
 Task 12 (30/01/2025) - Mapping HTML data to JSON file using FreeMarker Template and acquire knowledge about new concets in FreeMarker Template Language
 
 Task 13 (31/01/2025) - Learning all built-in functions and do hands-on experience on all function in FreeMarker Template Language
+
+Task 14 (01/02/2025) - Learning all applicators in JSON schema and do hands-on experience for all applicators
