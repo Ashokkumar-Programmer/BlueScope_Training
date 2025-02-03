@@ -15,7 +15,7 @@ public class Json_Schema {
     public static void main(String[] args) throws IOException {
     	
     	//allof
-    	//String filename = "allof.json";
+    	String filename = "allof.json";
         
     	//anyof
     	//String filename = "anyof.json";
@@ -39,7 +39,7 @@ public class Json_Schema {
     	//String filename = "contains.json";
     	
     	//prefixItems
-    	String filename = "prefixItems.json";
+    	//String filename = "prefixItems.json";
     	
     	File jsonFile = new File("A:\\Github\\BlueScope_Training\\Task14\\src\\files\\Applicator\\StudentData.json");
         File schemaFile = new File("A:\\Github\\BlueScope_Training\\Task14\\src\\files\\Applicator\\"+filename);

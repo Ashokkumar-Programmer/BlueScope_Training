@@ -1,0 +1,41 @@
+{
+	"$schema": "https://json-schema.org/draft/2020-12/schema",
+	"title": "Student Info",
+	"type": "object",
+	"properties":{
+		"students":{
+			"type": "array",
+			"items":{
+				"type": "object",
+				"if": {
+					"title": "If block",
+					"properties":{
+						"name": {"const": "Alice Johnson"}
+					}
+				},
+				"then":{
+					"properties":{
+						"title": "Student grades",
+						"grades":{
+							"type": "object",
+							"properties":{
+								"Math":{
+									"title": "Math mark",
+									"type": "integer",
+									"maximum": 100,
+									"minimum": 1
+								},
+								"Science":{
+									"title": "Science mark",
+									"type": "integer",
+									"maximum": 100,
+									"minimum": 1
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}

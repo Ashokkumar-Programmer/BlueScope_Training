@@ -1,0 +1,19 @@
+{
+	"$schema": "https://json-schema.org/draft/2020-12/schema",
+	"type": "object",
+	"properties":{
+		"students":{
+			"type": "array",
+			"items":{
+				"type": "object",
+				"properties":{
+					"name":{
+						"type": "string",
+						"maxLength": 13,
+						"minLength": 1
+					}
+				}
+			}
+		}
+	}
+}

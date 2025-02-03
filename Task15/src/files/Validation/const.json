@@ -1,0 +1,27 @@
+{
+	"$schema": "https://json-schema.org/draft/2020-12/schema",
+	"type": "object",
+	"properties":{
+		"students":{
+			"type": "array",
+			"items":{
+				"type": "object",
+				"properties":{
+					"address":{
+						"type": "object",
+						"if":{
+							"properties":{
+								"city":{"const": "New York"}
+							}
+						},
+						"then":{
+							"properties":{
+								"zip": {"const": "10001"}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}
