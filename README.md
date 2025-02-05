@@ -28,3 +28,7 @@ Task 12 (30/01/2025) - Mapping HTML data to JSON file using FreeMarker Template 
 Task 13 (31/01/2025) - Learning all built-in functions and do hands-on experience on all function in FreeMarker Template Language
 
 Task 14 (01/02/2025) - Learning all applicators in JSON schema and do hands-on experience for all applicators
+
+Task 15 (03/02/2025) - Learning all validations and metadata in JSON schema and do hands-on experience for all applicators
+
+Task 16 (04/02/2025) - Java Program to validate the JSON using JSON schema

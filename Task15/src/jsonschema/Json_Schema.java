@@ -53,7 +53,7 @@ public class Json_Schema {
 		//String filename = "Validation\\min&maxContains.json";
 		
 		//uniqueItems
-		//String filename = "Validation\\uniqueItems.json";
+		String filename = "Validation\\uniqueItems.json";
 		
 		
 		//Meta Data
@@ -71,7 +71,7 @@ public class Json_Schema {
 		//String filename = "MetaData\\deprecated.json";
 		
 		//example
-		String filename = "MetaData\\examples.json";
+		//String filename = "MetaData\\examples.json";
 		
 		File jsonFile = new File("A:\\Github\\BlueScope_Training\\Task15\\src\\files\\StudentData.json");
 		File schemaFile = new File("A:\\Github\\BlueScope_Training\\Task15\\src\\files\\"+filename);
