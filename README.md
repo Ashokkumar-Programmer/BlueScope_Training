@@ -31,4 +31,6 @@ Task 14 (01/02/2025) - Learning all applicators in JSON schema and do hands-on e
 
 Task 15 (03/02/2025) - Learning all validations and metadata in JSON schema and do hands-on experience for all applicators
 
-Task 16 (04/02/2025) - Java Program to validate the JSON using JSON schema
+Task 16 (05/02/2025) - Java Program to validate the JSON using JSON schema
+
+Task 17 (06/02/2025) - Learning all concepts on SpEL in spring and do hands-on experience of SpEL on Eclipse IDE.

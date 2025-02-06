@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>backend</groupId>
-	<artifactId>JSON_Schema</artifactId>
+	<artifactId>Task17</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>JSON_Schema</name>
-	<description>JSON Schema</description>
+	<name>Task17</name>
+	<description>SpEL Expression</description>
 	<url/>
 	<licenses>
 		<license/>
@@ -30,37 +30,6 @@
 		<java.version>21</java.version>
 	</properties>
 	<dependencies>
-	<dependency>
-	    <groupId>org.springframework</groupId>
-	    <artifactId>spring-expression</artifactId>
-	    <version>7.0.0-M1</version>
-	</dependency>
-	<dependency>
-        <groupId>com.github.erosb</groupId>
-        <artifactId>everit-json-schema-jdk6</artifactId>
-        <version>1.9.2</version>
-    </dependency>
-    <dependency>
-    <groupId>com.github.fge</groupId>
-    <artifactId>json-schema-validator</artifactId>
-    <version>2.2.6</version>
-</dependency>
-	<dependency>
-    <groupId>org.everit.json</groupId>
-    <artifactId>org.everit.json.schema</artifactId>
-    <version>1.0.0</version>
-</dependency>
-	  <dependency>
-    <groupId>com.networknt</groupId>
-    <artifactId>json-schema-validator</artifactId>
-    <version>1.4.0</version>
-</dependency>
-<dependency>
-    <groupId>org.json</groupId>
-    <artifactId>json</artifactId>
-    <version>20210307</version>
-</dependency>
-
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
