@@ -34,3 +34,7 @@ Task 15 (03/02/2025) - Learning all validations and metadata in JSON schema and 
 Task 16 (05/02/2025) - Java Program to validate the JSON using JSON schema
 
 Task 17 (06/02/2025) - Learning all concepts on SpEL in spring and do hands-on experience of SpEL on Eclipse IDE.
+
+Task 18 (07/02/2025) - Validate given JSON data using SpEL (Spring Expression Language)
+
+Task 19 (08/02/2025) - Validate given JSON data adn print the result using ternary operator on SpEL (Spring Expression Language)
