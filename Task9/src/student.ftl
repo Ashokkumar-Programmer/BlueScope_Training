@@ -14,7 +14,6 @@
 	  <#if value.get("phonenumber")?replace('"','')?number!=0>
 	  <phonenumber>${value.get("phonenumber")?replace('"','')}</phonenumber>    
 	  </#if>
-	  <#--</#if>-->
 	</student>
  </#list>
 </students>
