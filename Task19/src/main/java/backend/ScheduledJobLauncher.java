@@ -13,9 +13,7 @@ public class ScheduledJobLauncher {
 
     public void run() {
         try {
-            JobParameters params = new JobParametersBuilder()
-                    .addLong("time", System.currentTimeMillis())
-                    .toJobParameters();
+            JobParameters params = new JobParametersBuilder().addLong("time", System.currentTimeMillis()).toJobParameters();
             JobExecution execution = jobLauncher.run(job, params);
             System.out.println("Job Execution Status: " + execution.getStatus());
         } catch (Exception e) {
