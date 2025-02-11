@@ -37,6 +37,6 @@ Task 17 (06/02/2025) - Learning all concepts on SpEL in spring and do hands-on e
 
 Task 18 (07/02/2025) - Validate given JSON data using SpEL (Spring Expression Language)
 
-Task 19 (10/02/2025) - Validate given JSON data adn print the result using ternary operator on SpEL (Spring Expression Language)
+Task 19 (10/02/2025) - (Modification on Task 18) Validate given JSON data and print the result using ternary operator on SpEL (Spring Expression Language)
 
 Task 20 (11/02/2025) - Print "Hello World" for every 5 seconds using tasklet and gain knowledge about Spring Batch.
