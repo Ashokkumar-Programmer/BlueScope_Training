@@ -109,5 +109,3 @@ public class FileHandle implements Tasklet {
         return RepeatStatus.FINISHED;
     }
 }
-
-
