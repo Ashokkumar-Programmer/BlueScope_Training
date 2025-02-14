@@ -4,6 +4,7 @@
       "id": 1,
       "name": "Alice Johnson",
       "age": 20,
+      "email": "ashokkumar@gmail",
       "gender": "Female",
       "subjects": ["Math", "Science"],
       "address": {
@@ -20,6 +21,7 @@
       "id": 2,
       "name": "Bob Smith",
       "age": 21,
+      "email": "ashokkumar@gmail",
       "gender": "male",
       "subjects": ["History", "English"],
       "address": {

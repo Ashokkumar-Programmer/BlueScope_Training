@@ -10,6 +10,7 @@
 				"id": {"type": "integer"},
 				"name": {"type": "string"},
 				"age": {"type": "integer"},
+				"email": {"type": "string"},
 				"gender": {"type": "string"},
 				"subjects": {"type": "array"},
 				"address": {"type": "object"},
@@ -46,7 +47,7 @@
                         }
                      }
                   }
-               },
+               }
                {
                   "properties": {
                      "age": {
