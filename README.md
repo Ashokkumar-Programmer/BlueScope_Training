@@ -42,3 +42,5 @@ Task 19 (10/02/2025) - (Modification on Task 18) Validate given JSON data and pr
 Task 20 (11/02/2025) - Print "Hello World" for every 5 seconds using tasklet and gain knowledge about Spring Batch.
 
 Task 21 (12/02/2025) - Check if any changes in excel file content then write Excel file data into csv file, otherwise remains same. Use tasklet to process this operation for every 5 minutes.
+
+Task 22 (14/02/2025) - Implemented chunk processing in Spring Batch to read, process, and write database values with a delay.
