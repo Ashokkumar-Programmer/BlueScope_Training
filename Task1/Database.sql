@@ -19,14 +19,20 @@ insert into bank(name, party_code, parent_code, entity_code, status) values("har
 
 alter table bank auto_increment=1;
 
-create table files(userrole varchar(30) primary key, upload_file MEDIUMBLOB);
+create table files(userrole varchar(30) primary key, upload_file LONGBLOB);
 
 #C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/student.csv
 
-insert into files values("maker", load_file(''));
+insert into files values("checker", load_file(''));
+
+update files set upload_file=load_file("C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/Checker.xlsx") where userrole="checker";
+
+update files set upload_file=load_file("C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/Maker.xlsx") where userrole="maker";
+
+SET GLOBAL local_infile = 1;
+
+SELECT userrole, LENGTH(upload_file) FROM files WHERE userrole = 'maker';
+
+select * from files;
 
 select * from bank;
-
-delete from files;
-
-drop table files;
