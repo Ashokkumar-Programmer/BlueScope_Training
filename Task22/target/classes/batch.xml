@@ -9,7 +9,7 @@
            http://www.springframework.org/schema/task http://www.springframework.org/schema/task/spring-task.xsd">
 
     <bean id="excelHandleTasklet"
-          class="backend.ReadExcel" />
+          class="backend.Main" />
 
     <batch:job id="excelHandleJob">
         <batch:step id="excelHandleStep">
