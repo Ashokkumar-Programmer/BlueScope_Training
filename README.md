@@ -46,3 +46,5 @@ Task 21 (12/02/2025) - Check if any changes in excel file content then write Exc
 Task 22 (14/02/2025) - Implemented chunk processing in Spring Batch to read, process, and write database values with a delay.
 
 Task 23 (15/02/2025) - Automated email notifications with Excel attachments using Spring Batch tasklets and SMTP, based on user status.
+
+Task 24 (17/02/2025) - Understood the program flow of outward remittance submit process in the trade API
