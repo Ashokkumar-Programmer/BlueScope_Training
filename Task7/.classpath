@@ -13,7 +13,11 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry kind="lib" path="A:/Github/BlueScope_Training/Task7/src/main/webapp/WEB-INF/lib/mysql-connector-j-9.1.0.jar"/>
+	<classpathentry kind="lib" path="A:/Github/BlueScope_Training/Task7/src/main/webapp/WEB-INF/lib/mysql-connector-j-9.1.0.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="lib" path="A:/Github/BlueScope_Training/Task7/src/main/webapp/WEB-INF/lib/servletapi-2.3.jar"/>
 	<classpathentry kind="lib" path="A:/Github/BlueScope_Training/Task7/src/main/webapp/WEB-INF/lib/servlet-api-2.3.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
