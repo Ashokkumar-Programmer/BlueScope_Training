@@ -48,3 +48,7 @@ Task 22 (14/02/2025) - Implemented chunk processing in Spring Batch to read, pro
 Task 23 (15/02/2025) - Automated email notifications with Excel attachments using Spring Batch tasklets and SMTP, based on user status.
 
 Task 24 (17/02/2025) - Understood the program flow of outward remittance submit process in the trade API
+
+18/02/2025 - Understood the program flow of outward remittance submit process in the trade API
+
+19/02/2025 - Created a controller and FTL for ELC in trade API.
